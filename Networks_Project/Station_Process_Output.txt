@@ -1,0 +1,48 @@
+
+Send part  1  of  Frame 1, To Station 3
+ 
+
+Send part  2  of  Frame 1, To Station 3
+ 
+
+Send part  1  of  Frame 2, To Station 4
+ 
+
+Send part  2  of  Frame 2, To Station 4
+ 
+
+Send part  1  of  Frame 3, To Station 3
+ 
+
+Send part  2  of  Frame 3, To Station 3
+ 
+
+Send part  1  of  Frame 4, To Station 2
+ 
+
+Send part  2  of  Frame 4, To Station 2
+ 
+
+Send part  1  of  Frame 1, To Station 3
+ 
+
+Send part  2  of  Frame 1, To Station 3
+ 
+
+Send part  1  of  Frame 2, To Station 4
+ 
+
+Send part  2  of  Frame 2, To Station 4
+ 
+
+Send part  1  of  Frame 3, To Station 3
+ 
+
+Send part  2  of  Frame 3, To Station 3
+ 
+
+Send part  1  of  Frame 4, To Station 2
+ 
+
+Send part  2  of  Frame 4, To Station 2
+ 
